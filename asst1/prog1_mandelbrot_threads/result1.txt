@@ -1,0 +1,228 @@
+1 threads start
+[mandelbrot serial]:		[919.781] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 0
+Hello world from thread 0
+Hello world from thread 0
+Hello world from thread 0
+Hello world from thread 0
+[mandelbrot thread]:		[871.877] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.05x speedup from 1 threads)
+2 threads start
+[mandelbrot serial]:		[879.715] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 1
+[mandelbrot thread]:		[446.309] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.97x speedup from 2 threads)
+3 threads start
+[mandelbrot serial]:		[892.497] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 0
+Hello world from thread 2
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 2
+Hello world from thread 1
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 2
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 2
+[mandelbrot thread]:		[550.234] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.62x speedup from 3 threads)
+4 threads start
+[mandelbrot serial]:		[929.595] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 3
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 3
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 3
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 3
+Hello world from thread 1
+Hello world from thread 0
+Hello world from thread 3
+Hello world from thread 2
+[mandelbrot thread]:		[379.401] ms
+Wrote image file mandelbrot-thread.ppm
+				(2.45x speedup from 4 threads)
+5 threads start
+[mandelbrot serial]:		[922.939] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+[mandelbrot thread]:		[370.652] ms
+Wrote image file mandelbrot-thread.ppm
+				(2.49x speedup from 5 threads)
+6 threads start
+[mandelbrot serial]:		[887.817] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 1
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 2
+Hello world from thread 0
+Hello world from thread 5
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 5
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 0
+Hello world from thread 5
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 0
+Hello world from thread 5
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 0
+Hello world from thread 5
+[mandelbrot thread]:		[236.487] ms
+Wrote image file mandelbrot-thread.ppm
+				(3.75x speedup from 6 threads)
+7 threads start
+[mandelbrot serial]:		[941.054] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 0
+Hello world from thread 6
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 5
+Hello world from thread 0
+Hello world from thread 6
+Hello world from thread 4
+Hello world from thread 0
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 6
+Hello world from thread 5
+Hello world from thread 4
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 0
+Hello world from thread 6
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 0
+Hello world from thread 6
+[mandelbrot thread]:		[276.314] ms
+Wrote image file mandelbrot-thread.ppm
+				(3.41x speedup from 7 threads)
+8 threads start
+[mandelbrot serial]:		[925.122] ms
+Wrote image file mandelbrot-serial.ppm
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 6
+Hello world from thread 0
+Hello world from thread 7
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 6
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 7
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 1
+Hello world from thread 6
+Hello world from thread 0
+Hello world from thread 7
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 3
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 6
+Hello world from thread 0
+Hello world from thread 7
+Hello world from thread 1
+Hello world from thread 2
+Hello world from thread 4
+Hello world from thread 5
+Hello world from thread 3
+Hello world from thread 0
+Hello world from thread 7
+Hello world from thread 6
+[mandelbrot thread]:		[236.157] ms
+Wrote image file mandelbrot-thread.ppm
+				(3.92x speedup from 8 threads)
